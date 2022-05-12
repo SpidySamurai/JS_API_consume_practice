@@ -1,0 +1,18 @@
+{
+  "name": "js_api_consume_pratice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "api",
+    "movies"
+  ],
+  "author": "javier",
+  "license": "MIT"
+}
